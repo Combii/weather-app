@@ -1,0 +1,14 @@
+{
+  "name": "weather-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/lodash": "^4.14.77",
+    "@types/request": "^2.0.4",
+    "@types/yargs": "^8.0.2",
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "yargs": "^9.0.1"
+  },
+  "devDependencies": {}
+}
